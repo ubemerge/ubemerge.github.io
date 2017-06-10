@@ -75,7 +75,7 @@
                                                                    .navbar-default.affix .nav>li>a:focus:hover,.navbar-default.affix .nav>li>a:hover{
                                                                      color:#009688}}
                                                                      header{
-                                                                       min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-image:url(../img/header.jpg);color:#fff}
+                                                                       min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-color: black;color:#fff}
                                                                        header .header-content{
                                                                          padding:100px 15px}
                                                                          header .header-content .header-content-inner h1{
