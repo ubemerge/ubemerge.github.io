@@ -18,13 +18,13 @@
            hr.light{
              border-color:#fff}
              a{
-               transition:all .35s;color:#00BCD4}
+               transition:all .35s;color:#26C6DA}
                a:focus,a:hover{
                  color:#eb3812}
                  p{
                    font-size:16px;line-height:1.5;margin-bottom:20px}
                    .bg-primary{
-                     background-color:#00BCD4}
+                     background-color:#26C6DA}
                      .bg-dark{
                        background-color:#222;color:#fff}
                        .text-faded{
@@ -40,7 +40,7 @@
                                  .btn-default,.portfolio-box .portfolio-box-caption{
                                    -webkit-transition:all .35s;-moz-transition:all .35s}
                                    .navbar-default .navbar-header .navbar-brand{
-                                     color:#00BCD4;font-weight:700;text-transform:uppercase}
+                                     color:#26C6DA;font-weight:700;text-transform:uppercase}
                                      .navbar-default .navbar-header .navbar-brand:focus,.navbar-default .navbar-header .navbar-brand:hover{
                                        color:#eb3812}
                                        .navbar-default .navbar-header .navbar-toggle{
@@ -48,9 +48,9 @@
                                          .navbar-default .nav>li>a,.navbar-default .nav>li>a:focus{
                                            text-transform:uppercase;font-weight:700;font-size:13px;color:#222}
                                            .navbar-default .nav>li>a:focus:hover,.navbar-default .nav>li>a:hover{
-                                             color:#00BCD4}
+                                             color:#26C6DA}
                                              .navbar-default .nav>li.active>a,.navbar-default .nav>li.active>a:focus{
-                                               color:#00BCD4!important;background-color:transparent}
+                                               color:#26C6DA!important;background-color:transparent}
                                                .navbar-default .nav>li.active>a:focus:hover,.navbar-default .nav>li.active>a:hover{
                                                  background-color:transparent}
                                                  @media (min-width:768px){
@@ -67,13 +67,13 @@
                                                            .navbar-default.affix{
                                                              background-color:#fff;border-color:rgba(34,34,34,.05)}
                                                              .navbar-default.affix .navbar-header .navbar-brand{
-                                                               color:#00BCD4;font-size:14px}
+                                                               color:#26C6DA;font-size:14px}
                                                                .navbar-default.affix .navbar-header .navbar-brand:focus,.navbar-default.affix .navbar-header .navbar-brand:hover{
                                                                  color:#eb3812}
                                                                  .navbar-default.affix .nav>li>a,.navbar-default.affix .nav>li>a:focus{
                                                                    color:#222}
                                                                    .navbar-default.affix .nav>li>a:focus:hover,.navbar-default.affix .nav>li>a:hover{
-                                                                     color:#00BCD4}}
+                                                                     color:#26C6DA}}
                                                                      header{
                                                                        min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-color: black;color:#fff}
                                                                        header .header-content{
@@ -107,7 +107,7 @@
                                                                                                  .portfolio-box{
                                                                                                    position:relative;display:block;max-width:650px;margin:0 auto}
                                                                                                    .portfolio-box .portfolio-box-caption{
-                                                                                                     color:#fff;opacity:0;display:block;background:#00BCD4;position:absolute;bottom:0;text-align:center;width:100%;height:100%;transition:all .35s}
+                                                                                                     color:#fff;opacity:0;display:block;background:#26C6DA;position:absolute;bottom:0;text-align:center;width:100%;height:100%;transition:all .35s}
                                                                                                      .btn-default.active,.btn-default:active,.btn-primary.active,.btn-primary:active,.open>.dropdown-toggle.btn-default,.open>.dropdown-toggle.btn-primary{
                                                                                                        background-image:none}
                                                                                                        .portfolio-box .portfolio-box-caption .portfolio-box-caption-content{
@@ -130,7 +130,7 @@
                                                                                                                          .call-to-action h2{
                                                                                                                            margin:0 auto 20px}
                                                                                                                            .text-primary{
-                                                                                                                             color:#00BCD4}
+                                                                                                                             color:#26C6DA}
                                                                                                                              .no-gutter>[class*=col-]{
                                                                                                                                padding-right:0;padding-left:0}
                                                                                                                                .btn-default{
@@ -143,14 +143,14 @@
                                                                                                                                      .btn-default .badge{
                                                                                                                                        color:#fff;background-color:#222}
                                                                                                                                        .btn-primary{
-                                                                                                                                         color:#fff;background-color:#00BCD4;border-color:#00BCD4;-webkit-transition:all .35s;-moz-transition:all .35s;transition:all .35s}
+                                                                                                                                         color:#fff;background-color:#26C6DA;border-color:#26C6DA;-webkit-transition:all .35s;-moz-transition:all .35s;transition:all .35s}
                                                                                                                                          .btn-primary.active,.btn-primary.focus,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open>.dropdown-toggle.btn-primary{
                                                                                                                                            color:#fff;background-color:#ee4b28;border-color:#ed431f}
                                                                                                                                            .btn-primary.disabled,.btn-primary.disabled.active,.btn-primary.disabled.focus,.btn-primary.disabled:active,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled],.btn-primary[disabled].active,.btn-primary[disabled].focus,.btn-primary[disabled]:active,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary,fieldset[disabled] .btn-primary.active,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:active,fieldset[disabled] .btn-primary:focus,fieldset[disabled]
                                                                                                                                            .btn-primary:hover{
-                                                                                                                                             background-color:#00BCD4;border-color:#00BCD4}
+                                                                                                                                             background-color:#26C6DA;border-color:#26C6DA}
                                                                                                                                              .btn-primary .badge{
-                                                                                                                                               color:#00BCD4;background-color:#fff}
+                                                                                                                                               color:#26C6DA;background-color:#fff}
                                                                                                                                                .btn{
                                                                                                                                                  border:none;border-radius:300px;font-weight:700;text-transform:uppercase}
                                                                                                                                                  .btn-xl{
